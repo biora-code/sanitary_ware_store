@@ -27,7 +27,7 @@
     <ul class="hdr-nav">
       <li>
         <a href="#" onclick="showCat('en','all');return false;">Products <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 4l4 4 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></a>
-        <ul class="nav-l1">
+        <!--<ul class="nav-l1">
           <li class="nav-l1-item">
             <a href="#" onclick="showCat('en','tiles');return false;">Tiles <span class="arr">›</span></a>
             <ul class="nav-l2">
@@ -125,7 +125,8 @@
               <li><a href="#" onclick="showCat('en','all');return false;">Floor Unit</a></li>
             </ul>
           </li>
-        </ul>
+        </ul> -->
+        <ul id="menu-en"></ul>
       </li>
       <li><a href="#">About Us</a></li>
       <li><a href="#">Projects</a></li>
@@ -509,20 +510,20 @@
     <ul class="hdr-nav">
       <li>
         <a href="#" onclick="showCat('sq','all');return false;">Produkte <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 4l4 4 4-4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></a>
-        <ul class="nav-l1">
+        <!--<ul class="nav-l1" id >
           <li class="nav-l1-item">
             <a href="#" onclick="showCat('sq','tiles');return false;">Pllaka <span class="arr">›</span></a>
             <ul class="nav-l2">
               <li><a href="#" onclick="showCat('sq','tiles');return false;">Të Gjitha Pllakat</a></li>
-              <li><a href="#" onclick="showCat('sq','tiles');return false;">120×280</a></li>
-              <li><a href="#" onclick="showCat('sq','tiles');return false;">120×120</a></li>
+              <li><a href="#" onclick="showCat('sq','tiles','120×280');return false;">120×280</a></li>
+              <li><a href="#" onclick="showCat('sq','tiles','120×120');return false;">120×120</a></li>
               <li><a href="#" onclick="showCat('sq','tiles');return false;">100×100</a></li>
-              <li><a href="#" onclick="showCat('sq','tiles');return false;">120×60</a></li>
-              <li><a href="#" onclick="showCat('sq','tiles');return false;">60×60</a></li>
-              <li><a href="#" onclick="showCat('sq','tiles');return false;">50×50</a></li>
-              <li><a href="#" onclick="showCat('sq','tiles');return false;">120×20</a></li>
-              <li><a href="#" onclick="showCat('sq','tiles');return false;">10×20</a></li>
-              <li><a href="#" onclick="showCat('sq','tiles');return false;">5×25</a></li>
+              <li><a href="#" onclick="showCat('sq','tiles','120×60');return false;">120×60</a></li>
+              <li><a href="#" onclick="showCat('sq','tiles','60×60');return false;">60×60</a></li>
+              <li><a href="#" onclick="showCat('sq','tiles','50×50');return false;">50×50</a></li>
+              <li><a href="#" onclick="showCat('sq','tiles','120×20');return false;">120×20</a></li>
+              <li><a href="#" onclick="showCat('sq','tiles','10×20');return false;">10×20</a></li>
+              <li><a href="#" onclick="showCat('sq','tiles','5×25');return false;">5×25</a></li>
             </ul>
           </li>
           <li class="nav-l1-item">
@@ -608,14 +609,16 @@
               <li><a href="#" onclick="showCat('sq','all');return false;">Tokësore</a></li>
             </ul>
           </li>
-        </ul>
-      </li>
+        </ul> -->
+        <ul id="menu-sq"></ul>
+    </li>
       <li><a href="#">Rreth Nesh</a></li>
       <li><a href="#">Projekte</a></li>
       <li><a href="#" onclick="scrollToStore('sq');return false;">Gjej Dyqanin</a></li>
     </ul>
     <div class="hdr-right">
       <!-- SEARCH BAR SQ -->
+      
       <div class="hdr-search" id="hdr-search-sq">
         <div class="hdr-search-inner">
           <svg viewBox="0 0 24 24" fill="none" stroke="#6a7a9b" stroke-width="2.2" stroke-linecap="round" width="16" height="16" style="flex-shrink:0"><circle cx="11" cy="11" r="7"/><line x1="16.5" y1="16.5" x2="22" y2="22"/></svg>

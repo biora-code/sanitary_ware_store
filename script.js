@@ -1,3 +1,54 @@
+const PRODUCTS = 
+[
+  {
+    id: 1,
+    name: "Tile White 120x280",
+    nameAl: "Pllakë 120x280",
+    tag: "tiles",
+    sub: "120x280",
+    subAl: "120x280",
+    image: "images/tiles/120x280/Detria_Multi _Gloss_120x280_cm.jpg"
+  }
+];
+
+const MENU = {
+  tiles: {
+    en: "Tiles",
+    sq: "Pllaka",
+    subs: [
+      { en: "120×280", sq: "120×280" },
+      { en: "120×120", sq: "120×120" },
+      { en: "100×100", sq: "100×100" },
+      { en: "120×60",  sq: "120×60" },
+      { en: "60×60",   sq: "60×60" },
+      { en: "50×50",   sq: "50×50" },
+      { en: "120×20",  sq: "120×20" },
+      { en: "10×20",   sq: "10×20" },
+      { en: "5×25",    sq: "5×25" }
+    ]
+  },
+
+  laminate: {
+    en: "Laminate",
+    sq: "Llaminat",
+    subs: [
+      { en: "8 mm", sq: "8 mm" },
+      { en: "10 mm", sq: "10 mm" }
+    ]
+  }
+};
+
+function buildMenu() {
+  const map = {};
+
+  PRODUCTS.forEach(p => {
+    if (!map[p.tag]) map[p.tag] = new Set();
+    map[p.tag].add(p.sub);
+  });
+
+  return map;
+}
+
 // ── LANGUAGE SWITCH ──
 function setLang(lang) {
   document.getElementById('en').style.display = lang === 'en' ? 'block' : 'none';
@@ -96,7 +147,7 @@ function showPage(lang, page, data) {
     if (title) {
       title.innerText = data?.sub
         ? data.sub
-        : (lang === 'sq' ? CATS[data.key].sq : CATS[data.key].en);
+        : (lang === 'sq' ? MENU[data.key].sq : MENU[data.key].en);
     }
   }
 }
@@ -182,3 +233,45 @@ function scrollToStore(lang) {
   showPage(lang, 'home');
   document.getElementById(lang + '-footer')?.scrollIntoView({ behavior: 'smooth' });
 }
+
+// - funksion qe nderton menun
+function renderMenu(lang) {
+  const container = document.getElementById('menu-' + lang);
+  if (!container) return;
+
+  const menu = buildMenu();
+
+  container.innerHTML = Object.entries(menu).map(([tag, subs]) => {
+
+    const subsHtml = [...subs].map(sub => `
+      <li>
+        <a href="#" onclick="showSubCat('${lang}','${tag}','${sub}');return false;">
+          ${sub}
+        </a>
+      </li>
+    `).join('');
+
+    return `
+    <ul class="nav-l1">
+      <li class="nav-l1-item">
+        <a href="#" onclick="showCat('${lang}','${tag}');return false;">
+          ${tag.toUpperCase()}<span class="arr">›</span>
+        </a>
+        <ul class="nav-l2">
+          <li>
+            <a href="#" onclick="showCat('${lang}','${tag}');return false;">
+              All
+            </a>
+          </li>
+          ${subsHtml}
+        </ul>
+      </li>
+      </ul>
+    `;
+  }).join('');
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  renderMenu('en');
+  renderMenu('sq');
+});

@@ -7,36 +7,39 @@ const PRODUCTS =
     tag: "tiles",
     sub: "120x280",
     subAl: "120x280",
-    image: "images/tiles/120x280/Detria_Multi _Gloss_120x280_cm.jpg"
+    image: "images/tiles/120x280/detria_multi_gloss_120x280_cm.jpg"
+  },
+  {
+    id: 2,
+    name: "Ploteso me titull",
+    nameAl: "Pllakë 120x280",
+    tag: "tiles",
+    sub: "120x120",
+    subAl: "120x120",
+    image: "images/tiles/120x120/Golden-Carbom-Lux-120x120-Gardenia-Marmoteca_1024x1024.webp"
+  },
+    {
+    id: 3,
+    name: "Ploteso me titull",
+    nameAl: "Pllakë 120x280",
+    tag: "laminate",
+    sub: "all categories",
+    subAl: "te gjitha",
+    image: "images/tiles/120x120/Golden-Carbom-Lux-120x120-Gardenia-Marmoteca_1024x1024.webp"
   }
 ];
 
-const MENU = {
+const CATEGORIES = {
   tiles: {
-    en: "Tiles",
-    sq: "Pllaka",
-    subs: [
-      { en: "120×280", sq: "120×280" },
-      { en: "120×120", sq: "120×120" },
-      { en: "100×100", sq: "100×100" },
-      { en: "120×60",  sq: "120×60" },
-      { en: "60×60",   sq: "60×60" },
-      { en: "50×50",   sq: "50×50" },
-      { en: "120×20",  sq: "120×20" },
-      { en: "10×20",   sq: "10×20" },
-      { en: "5×25",    sq: "5×25" }
-    ]
+    label: "Tiles",
+    subs: ["120x280", "60x60", "30x60"]
   },
-
   laminate: {
-    en: "Laminate",
-    sq: "Llaminat",
-    subs: [
-      { en: "8 mm", sq: "8 mm" },
-      { en: "10 mm", sq: "10 mm" }
-    ]
+    label: "Laminate",
+    subs: ["8mm", "10mm"]
   }
 };
+
 
 function buildMenu() {
   const map = {};
@@ -77,11 +80,12 @@ function hl(text, q) {
 }
 
 // ── MAIN PRODUCT RENDER ──
-function renderProducts(list, lang) {
-  const container = document.getElementById(lang + '-products');
+function renderProducts(products, lang) {
+console.log(products)
+  const container = document.getElementById(lang + '-cat-grid');
   if (!container) return;
 
-  container.innerHTML = list.map(p => `
+  container.innerHTML = products.map(p => `
     <div class="product-card" onclick="showPage('${lang}','product',${p.id})">
       <img src="${p.image || ''}" alt="${p.name}">
       <div class="product-info">
@@ -90,6 +94,7 @@ function renderProducts(list, lang) {
       </div>
     </div>
   `).join('');
+
 }
 
 // ── SHOW CATEGORY (EXPLORE) ──
@@ -104,11 +109,17 @@ function showCat(lang, catKey) {
 
 // ── ✅ NEW: SHOW SUBCATEGORY ──
 function showSubCat(lang, catKey, subName) {
+  const cleanSub = subName.trim().toLowerCase();
+
   const filtered = PRODUCTS.filter(p => {
-    const catMatch = p.tag === catKey;
-    const subMatch = (lang === 'sq' ? p.subAl : p.sub) === subName;
-    return catMatch && subMatch;
+    const productSub = (lang === 'sq' ? p.subAl : p.sub)
+      .trim()
+      .toLowerCase();
+
+    return p.tag === catKey && productSub === cleanSub;
   });
+
+  console.log("FILTERED:", filtered);
 
   showPage(lang, 'cat', {
     key: catKey,
@@ -147,7 +158,7 @@ function showPage(lang, page, data) {
     if (title) {
       title.innerText = data?.sub
         ? data.sub
-        : (lang === 'sq' ? MENU[data.key].sq : MENU[data.key].en);
+        : data.key.toUpperCase();
     }
   }
 }
@@ -239,11 +250,9 @@ function renderMenu(lang) {
   const container = document.getElementById('menu-' + lang);
   if (!container) return;
 
-  const menu = buildMenu();
+  container.innerHTML = Object.entries(CATEGORIES).map(([tag, cat]) => {
 
-  container.innerHTML = Object.entries(menu).map(([tag, subs]) => {
-
-    const subsHtml = [...subs].map(sub => `
+    const subsHtml = cat.subs.map(sub => `
       <li>
         <a href="#" onclick="showSubCat('${lang}','${tag}','${sub}');return false;">
           ${sub}
@@ -252,21 +261,14 @@ function renderMenu(lang) {
     `).join('');
 
     return `
-    <ul class="nav-l1">
       <li class="nav-l1-item">
         <a href="#" onclick="showCat('${lang}','${tag}');return false;">
-          ${tag.toUpperCase()}<span class="arr">›</span>
+          ${cat.label}<span class="arr">›</span>
         </a>
         <ul class="nav-l2">
-          <li>
-            <a href="#" onclick="showCat('${lang}','${tag}');return false;">
-              All
-            </a>
-          </li>
           ${subsHtml}
         </ul>
       </li>
-      </ul>
     `;
   }).join('');
 }

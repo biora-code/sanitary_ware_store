@@ -11,7 +11,7 @@ const PRODUCTS =
   },
   {
     id: 2,
-    name: "Ploteso me titull",
+    name: "Put a title",
     nameAl: "Pllakë 120x280",
     tag: "tiles",
     sub: "120x120",
@@ -20,13 +20,23 @@ const PRODUCTS =
   },
     {
     id: 3,
-    name: "Ploteso me titull",
+    name: "Put a title",
+    nameAl: "Ploteso me titull",
+    tag: "accessories",
+    sub: "all categories",
+    subAl: "te gjitha",
+    image: "images/Accessories/Accessories/A21390ACR.jpg"
+  },
+      {
+    id: 4,
+    name: "Put a title",
     nameAl: "Pllakë 120x280",
     tag: "laminate",
-    sub: "all categories",
+    sub: "All Categories",
     subAl: "te gjitha",
     image: "images/tiles/120x120/Golden-Carbom-Lux-120x120-Gardenia-Marmoteca_1024x1024.webp"
   }
+
 ];
 
 const CATEGORIES = {
@@ -37,6 +47,10 @@ const CATEGORIES = {
   laminate: {
     label: "Laminate",
     subs: ["8mm", "10mm"]
+  },
+  accessories: {
+    label: "Accessories",
+    subs: ["All Categories"]
   }
 };
 
@@ -90,7 +104,6 @@ console.log(products)
       <img src="${p.image || ''}" alt="${p.name}">
       <div class="product-info">
         <div class="product-name">${lang === 'sq' ? p.nameAl : p.name}</div>
-        <div class="product-meta">${p.id}</div>
       </div>
     </div>
   `).join('');

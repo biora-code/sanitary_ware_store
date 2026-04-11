@@ -27,15 +27,546 @@ const PRODUCTS =
     subAl: "te gjitha",
     image: "images/Accessories/Accessories/A21390ACR.jpg"
   },
-      {
-    id: 4,
-    name: "Put a title",
-    nameAl: "Pllakë 120x280",
-    tag: "laminate",
-    sub: "All Categories",
-    subAl: "te gjitha",
-    image: "images/tiles/120x120/Golden-Carbom-Lux-120x120-Gardenia-Marmoteca_1024x1024.webp"
-  }
+  {
+  id: 4,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A213140CR.jpg"
+},
+{
+  id: 5,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A213140NR.jpg"
+},
+{
+  id: 6,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A213160NE.jpg"
+},
+{
+  id: 7,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A213160NR.jpg"
+},
+{
+  id: 8,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A213210CR.jpg"
+},
+{
+  id: 9,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A213210NE.jpg"
+},
+{
+  id: 10,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A213210NR.jpg"
+},
+{
+  id: 11,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A213250CR.jpg"
+},
+{
+  id: 12,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A213250NE.jpg"
+},
+{
+  id: 13,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A213250NR.jpg"
+},
+{
+  id: 14,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A21390ACR.jpg"
+},
+{
+  id: 15,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A21390ANR.jpg"
+},
+{
+  id: 16,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A21390BCR.jpg"
+},
+{
+  id: 17,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/A21390BNR.jpg"
+},
+{
+  id: 18,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30801-3.png"
+},
+{
+  id: 19,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30801-6.png"
+},
+{
+  id: 20,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30801.jpg"
+},
+{
+  id: 21,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30802-3.jpg"
+},
+{
+  id: 22,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30802-6.png"
+},
+{
+  id: 23,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30803-2.jpg"
+},
+{
+  id: 24,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30803-23.jpg"
+},
+{
+  id: 25,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30803-26.png"
+},
+{
+  id: 26,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30803-3.jpg"
+},
+{
+  id: 27,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30803-6.png"
+},
+{
+  id: 28,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30805-2.png"
+},
+{
+  id: 29,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30805-23.jpg"
+},
+{
+  id: 30,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30805-26.png"
+},
+{
+  id: 31,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30806-3.jpg"
+},
+{
+  id: 32,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30806-6.png"
+},
+{
+  id: 33,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30806.jpg"
+},
+{
+  id: 34,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30810-3.jpg"
+},
+{
+  id: 35,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30810-6.png"
+},
+{
+  id: 36,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/G30810.png"
+},
+{
+  id: 37,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "accessories",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Accessories/Accessories/GOLD.jpg"
+},
+{
+  id: 38,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Acrylux.170x80x58.jpg"
+},
+{
+  id: 39,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Acrylux_Bahama_Black_free_standing.jpg"
+},
+{
+  id: 40,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Acrylux_caramel.jpg"
+},
+{
+  id: 41,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Coral-Cover_150x150_cvm.jpg"
+},
+{
+  id: 42,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Crystalglow_dessert_red_resin_bathtub.jpg"
+},
+{
+  id: 43,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Crystalglow_grey_black_170x78x56.jpg"
+},
+{
+  id: 44,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Crystalglow_round_dessert_yellow_170x78x56.jpg"
+},
+{
+  id: 45,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Eliza_170x170_cm.jpg"
+},
+{
+  id: 46,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Lina_White_Glossy_Bathtub_free_standing_acrylic_170x80x75.jpg"
+},
+{
+  id: 47,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Serifos.jpg"
+},
+{
+  id: 48,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Serifos_160x160_cm.jpg"
+},
+{
+  id: 49,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Sine_180x80_cm.jpg"
+},
+{
+  id: 50,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Vaske_Acrylux_Coco_Black_Matt_Glossy_175x76x75.jpg"
+},
+{
+  id: 51,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Vaske_acrylux.jpg"
+},
+{
+  id: 52,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Venezia.jpg"
+},
+{
+  id: 53,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/Venezia_White_Glossy_In_Petrolio_167x82x65.jpg"
+},
+{
+  id: 54,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtub",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bathtub/Bathtub/sine.jpg"
+},
+{
+  id: 55,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtubtabs",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/BathtubTabs/BathtubTabs/Amelia_Gold.jpg"
+},
+{
+  id: 56,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtubtabs",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/BathtubTabs/BathtubTabs/Amelia.jpg"
+},
+{
+  id: 57,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtubtabs",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/BathtubTabs/BathtubTabs/Amelia_Gun_Metal.jpg"
+},
+{
+  id: 58,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtubtabs",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/BathtubTabs/BathtubTabs/Casia.jpg"
+},
+{
+  id: 59,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bathtubtabs",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/BathtubTabs/BathtubTabs/Casia_Chrome.jpg"
+},
+{
+  id: 60,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bolier",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bolier/Bolier/ariston.png"
+},
+{
+  id: 61,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bolier",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bolier/Bolier/hidrotherm.png"
+},
+{
+  id: 62,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bolier",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bolier/Bolier/midea_kat.png"
+},
+{
+  id: 63,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "bolier",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Bolier/Bolier/midea_rrethor.jpg"
+}
 
 ];
 
@@ -50,6 +581,18 @@ const CATEGORIES = {
   },
   accessories: {
     label: "Accessories",
+    subs: ["All Categories"]
+  },
+  bathtub: {
+    label: "Bathtub",
+    subs: ["All Categories"]
+  },
+  bathtubtabs: {
+    label: "Bathtub Tabs",
+    subs: ["All Categories"]
+  },
+  bolier: {
+    label: "Bolier",
     subs: ["All Categories"]
   }
 };

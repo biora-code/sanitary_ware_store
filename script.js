@@ -566,6 +566,393 @@ const PRODUCTS =
   sub: "all categories",
   subAl: "te gjitha",
   image: "images/Bolier/Bolier/midea_rrethor.jpg"
+},
+{
+  id: 64,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "cookingstove",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/CookingStove-Cookerhood/CookingStove-Cookerhood/carbon_filter.jpg"
+},
+{
+  id: 65,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "cookingstove",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/CookingStove-Cookerhood/CookingStove-Cookerhood/cookerhood.jpg"
+},
+{
+  id: 66,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "cookingstove",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/CookingStove-Cookerhood/CookingStove-Cookerhood/hobs.jpg"
+},
+{
+  id: 67,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "cookingstove",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/CookingStove-Cookerhood/CookingStove-Cookerhood/metallic.jpg"
+},
+{
+  id: 68,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "cookingstove",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/CookingStove-Cookerhood/CookingStove-Cookerhood/ovens.jpg"
+},
+{
+  id: 69,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "dishwashers",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Dishwashers/Haier_60.png"
+},
+{
+  id: 70,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "filters",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Filters/Filter/G9.jpg"
+},
+{
+  id: 71,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "filters",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Filters/Filter/G900.jpg"
+},
+{
+  id: 72,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "filters",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Filters/Filter/G90001.jpg"
+},
+{
+  id: 73,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "filters",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Filters/Filter/G901.jpg"
+},
+{
+  id: 74,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "fridges",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Fridge/Fridge/fridg.png"
+},
+{
+  id: 75,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "fridges",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Fridge/Fridge/frig_gri.jpg"
+},
+{
+  id: 76,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "fridges",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Fridge/Fridge/frig_i_zi.png"
+},
+{
+  id: 77,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "fridges",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Fridge/Fridge/friig_gri.jpg"
+},
+{
+  id: 78,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "fridges",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Fridge/Fridge/gri.jpg"
+},
+{
+  id: 79,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "fridges",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Fridge/Fridge/grii.jpg"
+},
+{
+  id: 80,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "fridges",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Fridge/Fridge/zi.jpg"
+},
+{
+  id: 81,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "fridges",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Fridge/Fridge/zii.jpg"
+},
+{
+  id: 82,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "radiators",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Radiators/Radiatore/Rad.banjo_120.png"
+},
+{
+  id: 83,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "radiators",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Radiators/Radiatore/Radiator_banj.zi+bardh.jpg"
+},
+{
+  id: 84,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "radiators",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Radiators/Radiatore/Radiator_inox.jpg"
+},
+{
+  id: 85,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "radiators",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Radiators/Radiatore/Radiatore_banjo.jpg"
+},
+{
+  id: 86,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "radiators",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Radiators/Radiatore/Radiatore_banjo_bardh.jpg"
+},
+{
+  id: 87,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "washingmachines",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Washingmachine/machine.jpg"
+},
+{
+  id: 88,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "washingmachines",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/Washingmachine/Washing_machine.jpg"
+},
+{
+  id: 89,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/BLACKK_MAT.jpg"
+},
+{
+  id: 90,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/Delano_Black.jpg"
+},
+{
+  id: 91,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/Delano_Black_Matt_Toilet_Set_wall_hung_rimless_54.5_cm.jpg"
+},
+{
+  id: 92,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/Delano_white_glossy.jpg"
+},
+{
+  id: 93,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/Glomp_Lago_Glossy_Toilet_Set_wall-hung_rimless_51_cm.jpg"
+},
+{
+  id: 94,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/Glomp_petrolio_glossy_toilet_set.jpg"
+},
+{
+  id: 95,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/Glomp_white_mat_toilet_set.jpg"
+},
+{
+  id: 96,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/Jadore_compact_matt.jpg"
+},
+{
+  id: 97,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/contea_white.jpg"
+},
+{
+  id: 98,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/contea_white_glossy.jpg"
+},
+{
+  id: 99,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/delano_white.jpg"
+},
+{
+  id: 100,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/glomp_grey_mat.png"
+},
+{
+  id: 101,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/glomp_petrolio.jpg"
+},
+{
+  id: 102,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/glomp_terra.jpg"
+},
+{
+  id: 103,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/jadore_compact_white_mat.jpg"
+},
+{
+  id: 104,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/julieta.jpg"
+},
+{
+  id: 105,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/julieta_white_glossy.jpg"
+},
+{
+  id: 106,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "wcbidet",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/wc+bidet/wc+bidet/lago.jpg"
 }
 
 ];
@@ -577,7 +964,7 @@ const CATEGORIES = {
   },
   laminate: {
     label: "Laminate",
-    subs: ["8mm", "10mm"]
+    subs: ["All Categories"]
   },
   accessories: {
     label: "Accessories",
@@ -594,7 +981,35 @@ const CATEGORIES = {
   bolier: {
     label: "Bolier",
     subs: ["All Categories"]
-  }
+  },
+  cookingstove: {
+    label: "Cooking Stove",
+    subs: ["All Categories"]
+  },
+  dishwashers: {
+    label: "Dishwashers",
+    subs: ["All Categories"]
+  },
+  filters: {
+    label: "Filters",
+    subs: ["All Categories"]
+  } ,
+  fridges: {
+    label: "Fridges",
+    subs: ["All Categories"]
+  },
+  radiators: {
+    label: "Radiators",
+    subs: ["All Categories"]
+  },
+  washingmachines: {
+    label: "Washing Machines",
+    subs: ["All Categories"]
+  },
+  wcbidet: {
+    label: "WC & Bidet",
+    subs: ["All Categories"]
+  } 
 };
 
 
@@ -703,20 +1118,45 @@ function showPage(lang, page, data) {
   }
 
   // CATEGORY PAGE (Explore + Subcategory)
-  if (page === 'cat') {
-    const products = data?.products
-      ? data.products
-      : PRODUCTS.filter(p => p.tag === data.key);
+if (page === 'cat') {
+  const products = data?.products
+    ? data.products
+    : PRODUCTS.filter(p => p.tag === data.key);
 
-    renderProducts(products, lang);
+  renderProducts(products, lang);
 
-    const title = document.getElementById(lang + '-cat-title');
-    if (title) {
-      title.innerText = data?.sub
-        ? data.sub
-        : data.key.toUpperCase();
-    }
+  const title = document.getElementById(lang + '-cat-title');
+  const breadcrumb = document.getElementById(lang + '-cat-breadcrumb');
+
+  const catLabel = CATEGORIES[data.key]?.label || data.key;
+
+  // Title
+  if (title) {
+    title.innerText = data?.sub
+      ? data.sub
+      : catLabel;
   }
+
+  // Breadcrumb
+  if (breadcrumb) {
+    let html = `
+      <a href="#" onclick="showPage('${lang}','home');return false;">Home</a>
+      <span class="sep">›</span>
+      <a href="#" onclick="showCat('${lang}','${data.key}');return false;">
+        ${catLabel}
+      </a>
+    `;
+
+    if (data?.sub) {
+      html += `
+        <span class="sep">›</span>
+        <span class="cur">${data.sub}</span>
+      `;
+    }
+
+    breadcrumb.innerHTML = html;
+  }
+}
 }
 
 // ── SEARCH ──

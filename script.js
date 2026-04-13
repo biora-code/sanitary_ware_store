@@ -953,14 +953,1120 @@ const PRODUCTS =
   sub: "all categories",
   subAl: "te gjitha",
   image: "images/wc+bidet/wc+bidet/lago.jpg"
+},
+{
+  id: 107,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/alpine.jpg"
+},
+{
+  id: 108,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/altay.jpg"
+},
+{
+  id: 109,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/atlas.jpg"
+},
+{
+  id: 110,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/everest.jpg"
+},
+{
+  id: 111,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/fuji.jpg"
+},
+{
+  id: 112,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/logan.jpg"
+},
+{
+  id: 113,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/nirvana.jpg"
+},
+{
+  id: 114,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/pamir.jpg"
+},
+{
+  id: 115,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/rosso.jpg"
+},
+{
+  id: 116,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/solaro.jpg"
+},
+{
+  id: 117,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/tibet.jpg"
+},
+{
+  id: 118,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/toros.jpg"
+},
+{
+  id: 119,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "laminate",
+  sub: "all categories",
+  subAl: "te gjitha",
+  image: "images/laminate/Laminat_AGT_12mm+8mm/ural.jpg"
+},
+{
+  id: 120,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Crystalglow_grey_black_45x45x85_cm.jpg"
+},
+{
+  id: 121,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Crystalglow.jpg"
+},
+{
+  id: 122,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Crystalglow_Grey_Black_Basin_Countertop_Resin.jpg"
+},
+{
+  id: 123,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Crystalglow_Grey_Black_Basin_Countertop_Resin_45x45x14_cm.jpg"
+},
+{
+  id: 124,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Crystalglow_Round Wine_Red Basin_45x456x14_cm.jpg"
+},
+{
+  id: 125,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Crystalglow_Round_Dessert_Yellow_Basin_over_Countertop_resin_45x45x14_cm.jpg"
+},
+{
+  id: 126,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Crystalglow_Round_Tea_Green_Basin.jpg"
+},
+{
+  id: 127,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Crystalglow_Round_Tea_Green_Basin_over_countertop_resin_45x45x14 cm.jpg"
+},
+{
+  id: 128,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Crystalglow_grey_black_45x45x85_cm.jpg"
+},
+{
+  id: 129,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/DP_Lago Glossy_Basin_free_stasnding_46x46x90_cm.all_colors.jpg"
+},
+{
+  id: 130,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Lolipop.jpg"
+},
+{
+  id: 131,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Lolipop_Ciel_Matt_Basin_over_countertop_35.5x35.5x12_cm.jpg"
+},
+{
+  id: 132,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Mate_Round_Petrolio_Glossy.jpg"
+},
+{
+  id: 133,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Petrolio.jpg"
+},
+{
+  id: 134,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/Red_wine.jpg"
+},
+{
+  id: 135,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/The_Mate_00Madia_Collection.jpg"
+},
+{
+  id: 136,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/crystalglow_grey_black.jpg"
+},
+{
+  id: 137,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/dp_lago_glossdy.jpg"
+},
+{
+  id: 138,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/grey-black4.jpg"
+},
+{
+  id: 139,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/madia.jpg"
+},
+{
+  id: 140,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/mate.png"
+},
+{
+  id: 141,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Basin/Basin/petrolio.glo.jpg"
+},
+
+{
+  id: 142,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Pyragranite",
+  subAl: "Pyragranite",
+  image: "images/Basin/Basin/Pyragranite-Sinks_PYRAMIS/beige.jpg"
+},
+{
+  id: 143,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Pyragranite",
+  subAl: "Pyragranite",
+  image: "images/Basin/Basin/Pyragranite-Sinks_PYRAMIS/carbon.jpg"
+},
+{
+  id: 144,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Pyragranite",
+  subAl: "Pyragranite",
+  image: "images/Basin/Basin/Pyragranite-Sinks_PYRAMIS/lavapjate.jpg"
+},
+{
+  id: 145,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Pyragranite",
+  subAl: "Pyragranite",
+  image: "images/Basin/Basin/Pyragranite-Sinks_PYRAMIS/snow.jpg"
+},
+
+{
+  id: 146,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Vanity",
+  subAl: "Vanity",
+  image: "images/Basin/Vanity/ada_60-80.jpg"
+},
+{
+  id: 147,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Vanity",
+  subAl: "Vanity",
+  image: "images/Basin/Vanity/delano_madia.jpg"
+},
+{
+  id: 148,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Vanity",
+  subAl: "Vanity",
+  image: "images/Basin/Vanity/rosella_sand_matt.jpg"
+},
+{
+  id: 149,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Vanity",
+  subAl: "Vanity",
+  image: "images/Basin/Vanity/trend_60&801.jpg"
+},
+
+{
+  id: 150,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Stainless Steel",
+  subAl: "Stainless Steel",
+  image: "images/Basin/Stainless_steel_sink/gapo.jpg"
+},
+{
+  id: 151,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Stainless Steel",
+  subAl: "Stainless Steel",
+  image: "images/Basin/Stainless_steel_sink/inox_multi.png"
+},
+{
+  id: 152,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Stainless Steel",
+  subAl: "Stainless Steel",
+  image: "images/Basin/Stainless_steel_sink/multi.jpg"
+},
+{
+  id: 153,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Stainless Steel",
+  subAl: "Stainless Steel",
+  image: "images/Basin/Stainless_steel_sink/pyramis.png"
+},
+{
+  id: 154,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "basin",
+  sub: "Stainless Steel",
+  subAl: "Stainless Steel",
+  image: "images/Basin/Stainless_steel_sink/sink.jpg"
+},
+{
+  id: 155,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6300-100.jpg"
+},
+{
+  id: 156,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/19142-100.jpg"
+},
+{
+  id: 157,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/19142-220.jpg"
+},
+{
+  id: 158,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/19254-100.jpg"
+},
+{
+  id: 159,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/19254-220.jpg"
+},
+{
+  id: 160,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/19254-400.jpg"
+},
+{
+  id: 161,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/19325-100.jpg"
+},
+{
+  id: 162,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/19325-220.jpg"
+},
+{
+  id: 163,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/19325-400.jpg"
+},
+{
+  id: 164,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/19441-220.jpg"
+},
+{
+  id: 165,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/19441-400.jpg"
+},
+{
+  id: 166,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6300-400.jpg"
+},
+{
+  id: 167,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6313-100.jpg"
+},
+{
+  id: 168,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6313-220.jpg"
+},
+{
+  id: 169,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6313-400.jpg"
+},
+{
+  id: 170,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6317-100.jpg"
+},
+{
+  id: 171,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6317-220.jpg"
+},
+{
+  id: 172,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6317-400.jpg"
+},
+{
+  id: 173,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6323-100.jpg"
+},
+{
+  id: 174,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6330-100.jpg"
+},
+{
+  id: 175,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6330-220.jpg"
+},
+{
+  id: 176,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6330-400.jpg"
+},
+{
+  id: 177,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6345-220.jpg"
+},
+{
+  id: 178,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6345-400.jpg"
+},
+{
+  id: 179,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6372-100.jpg"
+},
+{
+  id: 180,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/6372-400.jpg"
+},
+{
+  id: 181,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/cd6336-100.jpg"
+},
+{
+  id: 182,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/cd6336-220.jpg"
+},
+{
+  id: 183,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/cd6336-400.jpg"
+},
+{
+  id: 184,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/civ19116-100.jpg"
+},
+{
+  id: 185,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/civ19116-220.jpg"
+},
+{
+  id: 186,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Almar's Line",
+  subAl: "Almar's Line",
+  image: "images/Taps/Almar_s_Line/civ19116-400.png"
+},
+{
+  id: 187,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/1053360000.jpg"
+},
+{
+  id: 188,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/1053362430_GROHE.jpg"
+},
+{
+  id: 189,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/230101.jpg"
+},
+{
+  id: 190,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/230101B.jpg"
+},
+{
+  id: 191,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/230101G.jpg"
+},
+{
+  id: 192,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/230109.jpg"
+},
+{
+  id: 193,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/230109B.jpg"
+},
+{
+  id: 194,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/230109G.jpg"
+},
+{
+  id: 195,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/231402.jpg"
+},
+{
+  id: 196,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/231402G.jpg"
+},
+{
+  id: 197,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/231601Gl.png"
+},
+{
+  id: 198,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/239101.png"
+},
+{
+  id: 199,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/239101B.png"
+},
+{
+  id: 200,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/239101G.jpg"
+},
+{
+  id: 201,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/90905901.jpg"
+},
+{
+  id: 202,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/90932901.jpg"
+},
+{
+  id: 203,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/90938501.jpg"
+},
+{
+  id: 204,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/90938601.jpg"
+},
+{
+  id: 205,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/95071001.jpg"
+},
+{
+  id: 206,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/95120201.png"
+},
+{
+  id: 207,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/95121001.jpg"
+},
+{
+  id: 208,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/CA075SH.jpg"
+},
+{
+  id: 209,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/CA081.jpg"
+},
+{
+  id: 210,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/CA131.jpg"
+},
+{
+  id: 211,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JB31601.png"
+},
+{
+  id: 212,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JB37253.jpg"
+},
+{
+  id: 213,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JD31401.jpg"
+},
+{
+  id: 214,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JD31601.png"
+},
+{
+  id: 215,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JD37353.jpg"
+},
+{
+  id: 216,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JG31401.png"
+},
+{
+  id: 217,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JG30101.jpg"
+},
+{
+  id: 218,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JG30109.jpg"
+},
+{
+  id: 219,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JG31601.jpg"
+},
+{
+  id: 220,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JG37251.png"
+},
+{
+  id: 221,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JG39101.png"
+},
+{
+  id: 222,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JX38701B.jpg"
+},
+{
+  id: 223,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/JX38701M.jpg"
+},
+{
+  id: 224,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/RIN074.png"
+},
+{
+  id: 225,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/RIN075.jpg"
+},
+{
+  id: 226,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/RIN081CR3.png"
+},
+{
+  id: 227,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/RIN135R.png"
+},
+{
+  id: 228,
+  name: "Put a title",
+  nameAl: "Ploteso me titull",
+  tag: "taps",
+  sub: "Standard",
+  subAl: "Standard",
+  image: "images/Taps/Taps/SK075_HCR3.jpg"
 }
+
 
 ];
 
 const CATEGORIES = {
   tiles: {
     label: "Tiles",
-    subs: ["120x280", "60x60", "30x60"]
+    subs: ["120x280", "60x120", "100x100","120x120","Tiles with different sizes","Others"]
+  },
+  basin: {
+    label: "Basin",
+    subs: ["Standard", "Vanity", "Stainless Steel", "Pyragranite"]
   },
   laminate: {
     label: "Laminate",
@@ -1009,7 +2115,11 @@ const CATEGORIES = {
   wcbidet: {
     label: "WC & Bidet",
     subs: ["All Categories"]
-  } 
+  }, 
+  taps: {
+    label: "Taps",
+    subs: ["Standard", "Almar's Line"]
+  }, 
 };
 
 

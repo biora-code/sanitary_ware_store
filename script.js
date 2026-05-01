@@ -14,9 +14,9 @@ const PRODUCTS =
     name: "Put a title",
     nameAl: "Pllakë 120x280",
     tag: "tiles",
-    sub: "120x120",
-    subAl: "120x120",
-    image: "images/tiles/120x120/Golden-Carbom-Lux-120x120-Gardenia-Marmoteca_1024x1024.webp"
+    sub: "120x280",
+    subAl: "120x280",
+    image: "images/tiles/120x280/120x280.jpg"
   },
     {
     id: 3,
@@ -1979,7 +1979,7 @@ const PRODUCTS =
   name: "Put a title",
   nameAl: "Ploteso me titull",
   tag: "taps",
-  sub: "Standard",
+  sub: "Standard",     
   subAl: "Standard",
   image: "images/Taps/Taps/JG37251.png"
 },
@@ -2054,6 +2054,592 @@ const PRODUCTS =
   sub: "Standard",
   subAl: "Standard",
   image: "images/Taps/Taps/SK075_HCR3.jpg"
+},
+  {
+    id: 229,
+    name: "Put a title",
+    nameAl: "Pllakë 120x280",
+    tag: "tiles",
+    sub: "120x280",
+    subAl: "120x280",
+    image: "images/tiles/120x280/bright-precious-high-gloss-lcp-120-x-280-rectified-normal.jpg"
+  },
+{
+  id: 230,
+  name: "Put a title",
+  nameAl: "Pllakë 120x280",
+  tag: "tiles",
+  sub: "120x280",
+  subAl: "120x280",
+  image: "images/tiles/120x280/navona_120x280.jpg"
+},
+{
+  id: 231,
+  name: "Put a title",
+  nameAl: "Pllakë 120x280",
+  tag: "tiles",
+  sub: "120x280",
+  subAl: "120x280",
+  image: "images/tiles/120x280/onyx-blue-120x280-6-lappato-2002704.webp"
+},
+{
+  id: 232,
+  name: "Put a title",
+  nameAl: "Pllakë 120x280",
+  tag: "tiles",
+  sub: "120x280",
+  subAl: "120x280",
+  image: "images/tiles/120x280/orobico_soft_120x280.jpg"
+},
+{
+  id: 233,
+  name: "Put a title",
+  nameAl: "Pllakë 120x280",
+  tag: "tiles",
+  sub: "120x280",
+  subAl: "120x280",
+  image: "images/tiles/120x280/Rebel_Night_120x280.jpg"
+},
+{
+  id: 234,
+  name: "Put a title",
+  nameAl: "Pllakë 120x120",
+  tag: "tiles",
+  sub: "120x120",
+  subAl: "120x120",
+  image: "images/tiles/120x120/Blue_Jeans_Endless_120x120.jpg"
+},
+{
+  id: 235,
+  name: "Put a title",
+  nameAl: "Pllakë 120x120",
+  tag: "tiles",
+  sub: "120x120",
+  subAl: "120x120",
+  image: "images/tiles/120x120/Blue Jeans_Endless.png"
+},
+{
+  id: 236,
+  name: "Put a title",
+  nameAl: "Pllakë 120x120",
+  tag: "tiles",
+  sub: "120x120",
+  subAl: "120x120",
+  image: "images/tiles/120x120/Dakar_blue_120x120.jpg"
+},
+{
+  id: 237,
+  name: "Put a title",
+  nameAl: "Pllakë 120x120",
+  tag: "tiles",
+  sub: "120x120",
+  subAl: "120x120",
+  image: "images/tiles/120x120/Dakar_blue_120x120.webp"
+},
+{
+  id: 238,
+  name: "Put a title",
+  nameAl: "Pllakë 120x120",
+  tag: "tiles",
+  sub: "120x120",
+  subAl: "120x120",
+  image: "images/tiles/120x120/Golden-Carbom-Lux-120x120-Gardenia-Marmoteca_1024x1024.webp"
+},
+{
+  id: 239,
+  name: "Put a title",
+  nameAl: "Pllakë 120x120",
+  tag: "tiles",
+  sub: "120x120",
+  subAl: "120x120",
+  image: "images/tiles/120x120/Pamesa Vulcan_Grey_120x120.png"
+},
+{
+  id: 240,
+  name: "Put a title",
+  nameAl: "Pllakë 120x120",
+  tag: "tiles",
+  sub: "120x120",
+  subAl: "120x120",
+  image: "images/tiles/120x120/Pergamon_Light_Grey_120x120.jpeg"
+},
+{
+  id: 241,
+  name: "Put a title",
+  nameAl: "Pllakë 100x100",
+  tag: "tiles",
+  sub: "100x100",
+  subAl: "100x100",
+  image: "images/tiles/100x100/Doge_Rialto_100x100.webp"
+},
+{
+  id: 242,
+  name: "Put a title",
+  nameAl: "Pllakë 100x100",
+  tag: "tiles",
+  sub: "100x100",
+  subAl: "100x100",
+  image: "images/tiles/100x100/Doge_Rialto.jpg"
+},
+{
+  id: 243,
+  name: "Put a title",
+  nameAl: "Pllakë 100x100",
+  tag: "tiles",
+  sub: "100x100",
+  subAl: "100x100",
+  image: "images/tiles/100x100/Pamesa Vulcan_Grey.jpg"
+},
+{
+  id: 244,
+  name: "Put a title",
+  nameAl: "Pllakë 100x100",
+  tag: "tiles",
+  sub: "100x100",
+  subAl: "100x100",
+  image: "images/tiles/100x100/Pergamon_light_grey.webp"
+},
+{
+  id: 245,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/60x120/Beton_Grey_60x120.jpg"
+},
+{
+  id: 246,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/beton_grey.jpeg"
+},
+{
+  id: 247,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Dalyan_Crema_60x120.jpeg"
+},
+{
+  id: 248,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Dalyan_crema.jpeg"
+},
+{
+  id: 249,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Dalyan_Grey_60x120.jpeg"
+},
+{
+  id: 250,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Dalyan_grey.webp"
+},
+{
+  id: 251,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Dalyan P.jpeg"
+},
+{
+  id: 252,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Dalyan_pe.webp"
+},
+{
+  id: 253,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Mijas_Gold_60x120.jpg"
+},
+{
+  id: 254,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/mijas_gold.jpg"
+},
+{
+  id: 255,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/milano_beige.jpeg"
+},
+{
+  id: 256,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Milano_black_60x120.jpeg"
+},
+{
+  id: 257,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/milano_black.jpeg"
+},
+{
+  id: 258,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/milano_grey_60x120.jpeg"
+},
+{
+  id: 259,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Milano_grey.jpg"
+},
+{
+  id: 260,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/milano_white_60x120.jpeg"
+},
+{
+  id: 261,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/miramar_natural_60x120.jpg"
+},
+{
+  id: 262,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Miramar_natural_block_60x_120.webp"
+},
+{
+  id: 263,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Miramar_natural.jpg"
+},
+{
+  id: 264,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Miramar_natural.webp"
+},
+{
+  id: 265,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/onyx-botto-silver.jpg"
+},
+{
+  id: 266,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/onyx-botto-silvr-2.jpg"
+},
+{
+  id: 267,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Patagonia-Naturale-POL690x120.jpg"
+},
+{
+  id: 268,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/patagonia-naturalle-satin.jpg"
+},
+{
+  id: 269,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/sagano_chesnut_60x120.webp"
+},
+{
+  id: 270,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/Sagano_chesnut.webp"
+},
+{
+  id: 271,
+  name: "Put a title",
+  nameAl: "Pllakë 60x120",
+  tag: "tiles",
+  sub: "60x120",
+  subAl: "60x120",
+  image: "images/tiles/60x120/urban_grey_60x120.webp"
+},
+{
+  id: 272,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Tiles with different sizes",
+  subAl: "Tiles me madhësi të ndryshme",
+  image: "images/tiles/Tiles_with_different_sizes/Class_wood_almond_30x180.webp"
+},
+{
+  id: 273,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Tiles with different sizes",
+  subAl: "Tiles me madhësi të ndryshme",
+  image: "images/tiles/Tiles_with_different_sizes/Class_wood_noce_30x180.jpeg"
+},
+{
+  id: 274,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Tiles with different sizes",
+  subAl: "Tiles me madhësi të ndryshme",
+  image: "images/tiles/Tiles_with_different_sizes/Class_wood_noce.jpeg"
+},
+{
+  id: 275,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Tiles with different sizes",
+  subAl: "Tiles me madhësi të ndryshme",
+  image: "images/tiles/Tiles_with_different_sizes/Class_Wood_oak_30x180.jpeg"
+},
+{
+  id: 276,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Tiles with different sizes",
+  subAl: "Tiles me madhësi të ndryshme",
+  image: "images/tiles/Tiles_with_different_sizes/Class_wood_Pino_30_x180.jpeg"
+},
+
+{
+  id: 277,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/Bright_Preciousa_High_Glossy.jpg"
+},
+{
+  id: 278,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/Detria_Multi_Gloss.jpg"
+},
+{
+  id: 279,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/Flavieker rebel_night.jpeg"
+},
+{
+  id: 280,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/fondavelle_river_jade.webp"
+},
+{
+  id: 281,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/Fondovalle-Infinito-River-Jade-Polished-1.jpg"
+},
+{
+  id: 282,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/Komi_Lodge Elegant_120x280.jpg"
+},
+{
+  id: 283,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/Komi_Lodge Elegant.jpg"
+},
+{
+  id: 284,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/La_m_armoteca_pearl_deluxe.jpg"
+},
+{
+  id: 285,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/la_marmoteca_pearl_deluxe_120x280_cm.jpg"
+},
+{
+  id: 286,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/marmoteca_lux_golden_carbon.jpg"
+},
+{
+  id: 287,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/Navona_Vein Candido.jpg"
+},
+{
+  id: 288,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/Onice_Clear_Soft.jpg"
+},
+{
+  id: 289,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/onice_clear.jpg"
+},
+{
+  id: 290,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/orobico_soft.jpg"
+},
+{
+  id: 291,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/orobico.jpg"
+},
+{
+  id: 292,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/The_Room_Inf_BR6_260_LP.jpg"
+},
+{
+  id: 293,
+  name: "Put a title",
+  nameAl: "Pllaka me madhësi të ndryshme",
+  tag: "tiles",
+  sub: "Others",
+  subAl: "Te tjera",
+  image: "images/tiles/The_Room_Inf_BR6_260_LPm_120x280.jpg"
 }
 
 

@@ -2647,65 +2647,68 @@ const PRODUCTS =
 
 const CATEGORIES = {
   tiles: {
-    label: "Tiles",
-    subs: ["120x280", "60x120", "100x100","120x120","Tiles with different sizes","Others"]
+    label: "Tiles", labelAl: "Pllaka",
+    subs: ["120x280", "60x120", "100x100", "120x120", "Tiles with different sizes", "Others"],
+    subsAl: ["120x280", "60x120", "100x100", "120x120", "Pllaka me madhësi të ndryshme", "Te tjera"]
   },
   basin: {
-    label: "Basin",
-    subs: ["Standard", "Vanity", "Stainless Steel", "Pyragranite"]
+    label: "Basin", labelAl: "Lavaman",
+    subs: ["Standard", "Vanity", "Stainless Steel", "Pyragranite"],
+    subsAl: ["Standard", "Vanity", "Inox", "Pyragranite"]
   },
   laminate: {
-    label: "Laminate",
-    subs: ["All Categories"]
+    label: "Laminate", labelAl: "Laminat",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
   },
   accessories: {
-    label: "Accessories",
-    subs: ["All Categories"]
+    label: "Accessories", labelAl: "Aksesorë",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
   },
   bathtub: {
-    label: "Bathtub",
-    subs: ["All Categories"]
+    label: "Bathtub", labelAl: "Vaskë",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
   },
   bathtubtabs: {
-    label: "Bathtub Tabs",
-    subs: ["All Categories"]
+    label: "Bathtub Tabs", labelAl: "Sifon Vaske",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
   },
   bolier: {
-    label: "Bolier",
-    subs: ["All Categories"]
+    label: "Boiler", labelAl: "Bolier",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
   },
   cookingstove: {
-    label: "Cooking Stove",
-    subs: ["All Categories"]
+    label: "Cooking Stove", labelAl: "Sobë Gatimi",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
   },
   dishwashers: {
-    label: "Dishwashers",
-    subs: ["All Categories"]
+    label: "Dishwashers", labelAl: "Lavastovilje",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
   },
   filters: {
-    label: "Filters",
-    subs: ["All Categories"]
-  } ,
+    label: "Filters", labelAl: "Filtra",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
+  },
   fridges: {
-    label: "Fridges",
-    subs: ["All Categories"]
+    label: "Fridges", labelAl: "Frigorifere",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
   },
   radiators: {
-    label: "Radiators",
-    subs: ["All Categories"]
+    label: "Radiators", labelAl: "Radiatorë",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
   },
   washingmachines: {
-    label: "Washing Machines",
-    subs: ["All Categories"]
+    label: "Washing Machines", labelAl: "Lavatriçe",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
   },
   wcbidet: {
-    label: "WC & Bidet",
-    subs: ["All Categories"]
-  }, 
+    label: "WC & Bidet", labelAl: "WC & Bide",
+    subs: ["All Categories"], subsAl: ["Të gjitha"]
+  },
   taps: {
-    label: "Taps",
-    subs: ["Standard", "Almar's Line"]
-  }, 
+    label: "Taps", labelAl: "Grupe & Rubinete",
+    subs: ["Standard", "Almar's Line"],
+    subsAl: ["Standard", "Linja Almar"]
+  },
 };
 
 
@@ -2947,8 +2950,10 @@ function renderMenu(lang) {
   if (!container) return;
 
   container.innerHTML = Object.entries(CATEGORIES).map(([tag, cat]) => {
+    const label = lang === 'sq' ? cat.labelAl : cat.label;
+    const subs  = lang === 'sq' ? cat.subsAl  : cat.subs;
 
-    const subsHtml = cat.subs.map(sub => `
+    const subsHtml = subs.map(sub => `
       <li>
         <a href="#" onclick="showSubCat('${lang}','${tag}','${sub}');return false;">
           ${sub}
@@ -2959,7 +2964,7 @@ function renderMenu(lang) {
     return `
       <li class="nav-l1-item">
         <a href="#" onclick="showCat('${lang}','${tag}');return false;">
-          ${cat.label}<span class="arr">›</span>
+          ${label}<span class="arr">›</span>
         </a>
         <ul class="nav-l2">
           ${subsHtml}

@@ -2766,6 +2766,8 @@ console.log(products)
 
 // ── SHOW CATEGORY (EXPLORE) ──
 function showCat(lang, catKey) {
+  //mbyll menune
+  document.querySelectorAll('.nav-l1').forEach(m => m.classList.remove('open'));
   const filtered = PRODUCTS.filter(p => p.tag === catKey);
 
   showPage(lang, 'cat', {
@@ -2776,6 +2778,8 @@ function showCat(lang, catKey) {
 
 // ── ✅ NEW: SHOW SUBCATEGORY ──
 function showSubCat(lang, catKey, subName) {
+  // Mbyll menunë
+  document.querySelectorAll('.nav-l1').forEach(m => m.classList.remove('open'));
   const cleanSub = subName.trim().toLowerCase();
 
   const filtered = PRODUCTS.filter(p => {
@@ -2968,4 +2972,22 @@ function renderMenu(lang) {
 document.addEventListener("DOMContentLoaded", () => {
   renderMenu('en');
   renderMenu('sq');
+});
+
+// Toggle menu hap/mbyll
+function toggleMenu(lang) {
+  const menu = document.getElementById('menu-' + lang);
+  if (!menu) return;
+  const isOpen = menu.classList.contains('open');
+  // Mbyll të gjitha menutë
+  document.querySelectorAll('.nav-l1').forEach(m => m.classList.remove('open'));
+  // Nëse ishte mbyllur, hape
+  if (!isOpen) menu.classList.add('open');
+}
+
+// Mbyll menunë kur klikohet jashtë saj
+document.addEventListener('click', function(e) {
+  if (!e.target.closest('.hdr-nav')) {
+    document.querySelectorAll('.nav-l1').forEach(m => m.classList.remove('open'));
+  }
 });
